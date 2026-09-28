@@ -1,8 +1,33 @@
 {
-  "artifacts": {},
-  "last_action": "initialized",
+  "artifacts": {
+    "AR-PROFILE": {
+      "acceptance": {
+        "at": "2026-09-28T06:51:15.497373Z",
+        "decision": "accepted",
+        "note": "",
+        "outputs": {
+          "创作者决策/production-profile.jsonl": "2fc7e813c37d62c737722c47b841e4bef0e7df1d3b82606d90d91c74a16fd475"
+        }
+      },
+      "inputs": {},
+      "outputs": [
+        "创作者决策/production-profile.jsonl"
+      ],
+      "owner": "short-drama",
+      "review": null,
+      "updated_at": "2026-09-28T06:51:15.497399Z"
+    }
+  },
+  "authority": {
+    "/creator_authority/production_profile/choices": {
+      "decision": "创作者决策/production-profile.jsonl#CD-SEEDANCE20",
+      "set_at": "2026-09-28T06:51:15.563803Z",
+      "value_sha256": "e7676e004acfcfdd38f421ada4770f366cf5ea38247bca872d370747c00409c8"
+    }
+  },
+  "last_action": "authority_set",
   "project_id": "SD-A198243E68BE",
-  "project_layout_mode": "auto",
+  "project_layout_mode": "canonical",
   "schema_version": "2.0",
-  "updated_at": "2026-09-28T06:35:39.942553Z"
+  "updated_at": "2026-09-28T06:51:15.563848Z"
 }
