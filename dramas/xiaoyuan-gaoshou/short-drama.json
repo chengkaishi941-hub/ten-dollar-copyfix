@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-09-28T06:35:39.942501Z",
+  "creator_authority": {
+    "constraints": [],
+    "decisions_artifact": "创作者决策/",
+    "delivery_surface": {
+      "aspect": null,
+      "overlay_regions": [],
+      "source_ref": null,
+      "status": "unset"
+    },
+    "production_profile": {
+      "choices": {},
+      "status": "unset"
+    },
+    "rhythm_profile": {
+      "status": "unset"
+    },
+    "visual_direction": {
+      "choices": {
+        "look_development": null
+      },
+      "status": "unset"
+    }
+  },
+  "format": {
+    "aspect_ratio": "9:16",
+    "episode_count": null,
+    "pacing": {
+      "seconds_per_action_paragraph": null,
+      "spoken_characters_per_second": null
+    },
+    "prompt_language": "zh-CN",
+    "target_seconds_per_episode": null
+  },
+  "language": "zh-CN",
+  "project_id": "SD-A198243E68BE",
+  "schema_version": "1.0.0-draft",
+  "title": "都市校园高手（暂名）"
+}
